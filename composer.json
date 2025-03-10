@@ -1,0 +1,17 @@
+{
+    "name": "fgalia/src",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fgalia",
+            "email": "fgalindo@cdmon.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.8"
+    }
+}
